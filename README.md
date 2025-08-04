@@ -9,6 +9,8 @@ To analyze customer booking patterns based on occupancy size (number of passenge
 
 <img width="1296" height="697" alt="image" src="https://github.com/user-attachments/assets/107eb0a2-14bc-4138-a44a-6977c88218af" />
 
+
+
 <img width="1311" height="727" alt="Occupancy_2" src="https://github.com/user-attachments/assets/1bdaa637-4fc7-43d4-8a59-e92295f0849c" />
 
 
